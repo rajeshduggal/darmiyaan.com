@@ -1,7 +1,7 @@
 baseURL = "https://darmiyaan.com/"
 languageCode = "en-us"
 title = "Darmiyaan"
-theme = "highlights"
+theme = "dtheme"
 disableKinds = ["taxonomy", "taxonomyTerm"]
 
 
