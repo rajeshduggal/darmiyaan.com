@@ -41,16 +41,16 @@ googleAnalytics = ""
   # hero Section
   [params.hero]
     type = "hero"
-    title = "Highlights"
-    description = "a fun litte { responsive } single Pager by [HTML5UP](//html5up.net)"
+    title = "Darmiyaan"
+    description = "Take a walk around Delhi with Aditi and Akash, as they reconnect with each other and the city they once called home."
     buttontext = "begin"
 
   # about section
   [[params.block]]
     id = "about"
     type = "text"
-    title = "Who am I"
-    description = "Aliquam ante ac id. Adipiscing interdum lorem praesent fusce pellentesque arcu feugiat. Consequat sed ultricies rutrum. Sed adipiscing eu amet interdum lorem blandit vis ac commodo aliquet integer vulputate phasellus lorem ipsum dolor lorem magna consequat sed etiam adipiscing interdum."
+    title = "The Story"
+    description = "It's been more than 20 years since Aditi and Akash met in Delhi, dated and lost touch with each other. Now Aditi lives in Toronto and Akash lives Singapore. After reconnecting over the internet one day, they plan to meet in New Delhi -- and spend half a day walking down memory lanes."
     buttontext = "next"
     # the picture is stored at static/images/
     picture = "pic01.jpg"
@@ -59,8 +59,8 @@ googleAnalytics = ""
   [[params.block]]
     id = "skills"
     type = "list"
-    title = "Stuff I do"
-    description = "Consequat sed ultricies rutrum. Sed adipiscing eu amet interdum lorem blandit vis ac commodo aliquet vulputate."
+    title = "Tell Me More"
+    description = "Darmiyaan is a Hindi language podcast coming soon to Apple Podcasts, Google Podcasts, Spotify and SoundCloud."
     buttontext = "next"
     # the picture is stored at static/images/
     picture = "pic02.jpg"
@@ -90,7 +90,7 @@ googleAnalytics = ""
     id = "infos"
     type = "text"
     title = "One more thing"
-    description = "Aliquam ante ac id. Adipiscing interdum lorem praesent fusce pellentesque arcu feugiat. Consequat sed ultricies rutrum. Sed adipiscing eu amet interdum lorem blandit vis ac commodo aliquet integer vulputate phasellus lorem ipsum dolor lorem magna consequat sed etiam adipiscing interdum."
+    description = "Tell us about your favourite Delhi haunt, and why that place is special to you. We'd love to share your story on our social media platforms. Also sign up below to find out when you can listen to Darmiyaan on your favourite podcast player."
     # the picture is stored at static/images/
     picture = "pic03.jpg"
 
@@ -130,7 +130,7 @@ googleAnalytics = ""
       [[params.footer.social]]
         title = "Twitter"
         icon = "fa-twitter"
-        link = "#"
+        link = "https://twitter.com/darmiyaanpod"
 
       [[params.footer.social]]
         title = "Facebook"
@@ -140,7 +140,7 @@ googleAnalytics = ""
       [[params.footer.social]]
         title = "Instagramm"
         icon = "fa-instagram"
-        link = "#"
+        link = "https://www.instagram.com/darmiyaanpodcast/"
 
       [[params.footer.social]]
         title = "Dribbble"
