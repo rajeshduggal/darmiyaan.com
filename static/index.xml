@@ -1,0 +1,55 @@
+<rss version="2.0" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:wfw="http://wellformedweb.org/CommentAPI/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:sy="http://purl.org/rss/1.0/modules/syndication/" xmlns:slash="http://purl.org/rss/1.0/modules/slash/" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:media="http://search.yahoo.com/mrss/" xmlns:googleplay="http://www.google.com/schemas/play-podcasts/1.0">
+  <channel>
+    <title>Darmiyaan</title>
+    <atom:link href="https://Darmiyaan.com/episode/index.xml" rel="self" type="application/rss+xml"/>
+    <link>https://Darmiyaan.com/</link>
+    <description>It’s been more than twenty years since Aditi and Akash dated, and lost touch with each other. After reconnecting one day, they plan to meet each other in Delhi -- and spend half a day walking down memory lanes.</description>
+    <lastBuildDate>Wed, 9 Dec 2020 00:00:17 -0400</lastBuildDate>
+    <sy:updatePeriod>hourly</sy:updatePeriod>
+    <sy:updateFrequency>1</sy:updateFrequency>
+    <language>hi</language>
+    <copyright>Copyright 2020</copyright>
+    <itunes:subtitle>After Aditi and Akash reconnected one day, they plan to meet each other in Delhi -- they spend half a day walking down memory lanes.</itunes:subtitle>
+    <itunes:author>Aparita Bhandari</itunes:author>
+    <itunes:type>episodic</itunes:type>
+    <googleplay:author>Aparita Bhandari</googleplay:author>
+    <googleplay:email>writeme@aparita.com</googleplay:email>
+    <itunes:summary>It’s been more than twenty years since Aditi and Akash dated, and lost touch with each other. After reconnecting one day, they plan to meet each other in Delhi -- and spend half a day walking down memory lanes.</itunes:summary>
+    <googleplay:description>It’s been more than twenty years since Aditi and Akash dated, and lost touch with each other. After reconnecting one day, they plan to meet each other in Delhi -- and spend half a day walking down memory lanes.</googleplay:description>
+    <itunes:owner>
+      <itunes:name>Aparita Bhandari</itunes:name>
+      <itunes:email>writeme@aparita.com</itunes:email>
+    </itunes:owner>
+    <itunes:image href="https://Darmiyaan.com/img/logoitunes.png"/>
+    <googleplay:image href="https://Darmiyaan.com/img/logoitunes.png"/>
+    <image>
+      <url>https://Darmiyaan.com/img/logoitunes.png</url>
+      <title>POC Podcast</title>
+      <link>https://Darmiyaan.com/</link>
+    </image>
+    <itunes:category text="Fiction">
+      <itunes:category text="Drama" />
+    </itunes:category>
+    <generator>Hugo -- gohugo.io</generator>
+    <item>
+      <title>Trailer</title>
+      <link>https://Darmiyaan.com/</link>
+      <pubDate>Wed, 9 Dec 2020 00:00:17 -0400 </pubDate>
+      <dc:creator/>
+      <guid>http://static.darmiyaan.com/media/darmiyaan-trailer-01.mp3</guid>
+      <itunes:author>Aparita Bhandari</itunes:author>
+      <itunes:episodeType>Trailer</itunes:episodeType>
+      <itunes:title>Trailer</itunes:title>
+      <itunes:summary>It’s been more than twenty years since Aditi and Akash dated, and lost touch with each other. After reconnecting one day, they plan to meet each other in Delhi -- and spend half a day walking down memory lanes.</itunes:summary>
+      <description>It’s been more than twenty years since Aditi and Akash dated, and lost touch with each other. After reconnecting one day, they plan to meet each other in Delhi -- and spend half a day walking down memory lanes.</description>
+      <googleplay:description>Episode 79: A look at the Netflix Original film Bulbbul.</googleplay:description>
+      <content:encoded><![CDATA[<p>It’s been more than twenty years since Aditi and Akash dated, and lost touch with each other. After reconnecting one day, they plan to meet each other in Delhi -- and spend half a day walking down memory lanes.</p>]]></content:encoded>
+      <itunes:image href="https://Darmiyaan.com/img/logoitunes.png"/>
+      <googleplay:image href="https://Darmiyaan.com/img/logoitunes.png"/>
+      <enclosure url="http://static.darmiyaan.com/media/darmiyaan-trailer-01.mp3" type="audio/mpeg"/>
+      <itunes:duration>0:01:51</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+      <googleplay:explicit>no</googleplay:explicit>
+    </item>
+  </channel>
+</rss>
