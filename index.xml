@@ -16,6 +16,8 @@
     <googleplay:email>writeme@aparita.com</googleplay:email>
     <itunes:summary>It’s been more than twenty years since Aditi and Akash dated, and lost touch with each other. After reconnecting one day, they plan to meet each other in Delhi -- and spend half a day walking down memory lanes.</itunes:summary>
     <googleplay:description>It’s been more than twenty years since Aditi and Akash dated, and lost touch with each other. After reconnecting one day, they plan to meet each other in Delhi -- and spend half a day walking down memory lanes.</googleplay:description>
+    <itunes:explicit>false</itunes:explicit>
+    <googleplay:explicit>no</googleplay:explicit>
     <itunes:owner>
       <itunes:name>Aparita Bhandari</itunes:name>
       <itunes:email>writeme@aparita.com</itunes:email>
@@ -24,7 +26,7 @@
     <googleplay:image href="https://Darmiyaan.com/img/DarmiyaanLogo.png"/>
     <image>
       <url>https://Darmiyaan.com/img/DarmiyaanLogo.png</url>
-      <title>POC Podcast</title>
+      <title>Darmiyaan</title>
       <link>https://Darmiyaan.com/</link>
     </image>
     <itunes:category text="Fiction">
@@ -48,7 +50,7 @@
       <googleplay:image href="https://Darmiyaan.com/img/DarmiyaanLogo.png"/>
       <enclosure url="http://static.darmiyaan.com/media/darmiyaan-trailer-01.mp3" type="audio/mpeg"/>
       <itunes:duration>0:01:51</itunes:duration>
-      <itunes:explicit>no</itunes:explicit>
+      <itunes:explicit>false</itunes:explicit>
       <googleplay:explicit>no</googleplay:explicit>
     </item>
   </channel>
