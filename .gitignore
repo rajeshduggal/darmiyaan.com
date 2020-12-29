@@ -47,3 +47,8 @@ tags
 .history
 
 # End of https://www.toptal.com/developers/gitignore/api/visualstudiocode,vim,hugo
+node_modules/
+resources/
+package.json
+package-lock.json
+package.hugo.json

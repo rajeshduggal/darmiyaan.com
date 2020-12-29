@@ -78,7 +78,7 @@ echo "Removing existing files"
 rm -rf public/*
 
 echo "Generating site"
-hugo
+hugo --minify -e production -d public
 
 echo "Updating gh-pages branch"
 cd public && git add --all && git commit -m "Publish to gh-pages (publish.sh)" && git push

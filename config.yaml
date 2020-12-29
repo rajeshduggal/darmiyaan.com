@@ -1,0 +1,50 @@
+baseURL: https://darmiyaan.com
+theme: darmiyaan
+
+defaultContentLanguage: en
+defaultContentLanguageInSubdir: true
+GoogleAnalytics: UA-186147166-1
+
+languages:
+  en:
+    title: Darmiyaan
+    languageName: English
+    languageCode: en
+    locale: en_US
+    description: Description of site in English.
+
+    fonts:
+      header: Satisfy  # Design had 'Bahagia'
+      subheader: Lato
+      body: Marcellus
+  hi:
+    title: दरमियाँ
+    languageName: हिंदी
+    languageCode: hi
+    locale: hi_IN
+    description: Description of site in Hindi.
+
+    fonts:
+      header: Yatra One
+      subheader: Poppins
+      body: Kalam
+
+params:
+  copyright:
+    startYear: 2020
+
+  theme:
+    background: '#e9e6d2'
+    accent: '#c4a274'
+    footer: '#967583'
+
+social:
+  twitter: darmiyaanpod
+  instagram: darmiyaanpodcast
+  facebook: darmiyaanpodcast
+  email: aparita@darmiyaan.com
+
+disableKinds:
+  - section
+  - taxonomy
+  - term
