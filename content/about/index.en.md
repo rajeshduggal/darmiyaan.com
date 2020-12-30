@@ -12,22 +12,22 @@ type: about
 It’s been more than twenty years since Aditi and Akash dated, and lost touch with each other. After reconnecting one day, they plan to meet each other in Delhi -- and spend half a day walking down Delhi and their own memory lanes.
 
 # Credits
-Aparita Bhandari is the producer, writer and director of Darmiyaan. She has also mixed the podcast, and played the role of Aditi.
+Aparita Bhandari is the producer, writer and director of Darmiyaan. She also mixed the podcast, and played the role of Aditi.
 
-- Ali Kazmi played the role of Akash. 
+- [Ali Kazmi](https://www.instagram.com/thealikazmi/) played the role of Akash. 
 - Additional voices: Vishal Sehgal, Vinod K. Ram, Purnesh Dev, Zahid Khan, Paraj Soni, Vikrant Wadhavan and Anand Rajaram
-- Additional Dialogues: Ali Kazmi, Kulish Thakur
-- Story consultant and Editor: Gursimran Datla
-- Foley, Sound Design, Mastering: Vinod K. Ram
-- Location Sound: Manas Tarai
+- Additional Dialogues: Ali Kazmi, [Kulish Thakur](https://www.instagram.com/kulish/)
+- Story consultant and Editor: [Gursimran Datla](https://gursimrandatla.wordpress.com/)
+- Foley, Sound Design, Mastering: [Vinod K. Ram](https://www.instagram.com/ar.vinod)
+- Location Sound: [Manas Tarai](https://twitter.com/manastarai07)
 - Theme Song: Samandar Ki Teh Mein by [Poor Rich Boy](https://www.youtube.com/user/poorrichboyattw)
-- Additional Music: Soundstripe
-- Technical Assistance: Rajesh Duggal
+- Additional Music: [Soundstripe](C/)
+- Technical Assistance: [Rajesh Duggal](https://www.linkedin.com/in/rajeshkduggal)
 
 # Special Thanks
-- Website Design: Charles Smid, 70 Main Street
+- Website Design: Charles Smid, [70 Main Street](http://www.70mainstreet.com/)
 - Website Development: [Utkarsh Verma](https://utkarshverma.github.io)
 - Illustrations: [Sangeetha Alwar](https://www.instagram.com/ms.alwar)
-- Studio Space Arrangement: Vikram Dasgupta
-- Vasan Bala and Chhavi Sachdev for lending their ears.
+- Studio Space Arrangement: [Vikram Dasgupta](http://www.vikramdasgupta.com/)
+- [Vasan Bala](https://www.instagram.com/vasanbala/) and [Chhavi Sachdev](https://www.sonologue.com/) for lending their ears.
 
