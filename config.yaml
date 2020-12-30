@@ -11,7 +11,7 @@ languages:
     languageName: English
     languageCode: en
     locale: en_US
-    description: Description of site in English.
+    description: Take a walk around Delhi and memory lanes, with Aditi and Akash.
 
     fonts:
       header: Satisfy  # Design had 'Bahagia'
@@ -22,7 +22,7 @@ languages:
     languageName: हिंदी
     languageCode: hi
     locale: hi_IN
-    description: Description of site in Hindi.
+    description: दिल्ली और यादों की सैर कीजिये, अदिति और आकाश के साथ।.
 
     fonts:
       header: Yatra One
