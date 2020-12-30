@@ -38,6 +38,8 @@ params:
     accent: '#c4a274'
     footer: '#967583'
 
+  enableCookieConsentNotice: false
+
 social:
   twitter: darmiyaanpod
   instagram: darmiyaanpodcast
