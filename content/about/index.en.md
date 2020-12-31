@@ -9,10 +9,10 @@ type: about
 ## Akash
 45. Senior VP at a cargo company in Singapore. Married to Brinda - one daughter Saira.
 
-It’s been more than twenty years since Aditi and Akash dated, and lost touch with each other. After reconnecting one day, they plan to meet each other in Delhi -- and spend half a day walking down Delhi and their own memory lanes.
+It’s been more than twenty years since Aditi and Akash dated, and lost touch with each other. After reconnecting online one day, they plan to meet each other in Delhi -- and spend half a day walking down Delhi and their own memory lanes.
 
 # Credits
-Aparita Bhandari wrote and produced Darmiyaan. She also mixed the podcast, and played the role of Aditi.
+[Aparita Bhandari](https://twitter.com/aparita) wrote and produced Darmiyaan. She also mixed the podcast, and played the role of Aditi.
 
 - [Ali Kazmi](https://www.instagram.com/thealikazmi/) played the role of Akash. 
 - Additional voices: Vishal Sehgal, Vinod K. Ram, Purnesh Dev, Zahid Khan, Paraj Soni, Vikrant Wadhavan and Anand Rajaram
