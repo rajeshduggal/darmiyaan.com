@@ -22,10 +22,10 @@
       <itunes:name>Aparita Bhandari</itunes:name>
       <itunes:email>writeme@aparita.com</itunes:email>
     </itunes:owner>
-    <itunes:image href="https://Darmiyaan.com/img/DarmiyaanLogo.png"/>
-    <googleplay:image href="https://Darmiyaan.com/img/DarmiyaanLogo.png"/>
+    <itunes:image href="https://Darmiyaan.com/img/DarmiyaanLogo.jpg"/>
+    <googleplay:image href="https://Darmiyaan.com/img/DarmiyaanLogo.jpg"/>
     <image>
-      <url>https://Darmiyaan.com/img/DarmiyaanLogo.png</url>
+      <url>https://Darmiyaan.com/img/DarmiyaanLogo.jpg</url>
       <title>Darmiyaan</title>
       <link>https://Darmiyaan.com/</link>
     </image>
@@ -46,8 +46,8 @@
       <description>It’s been more than twenty years since Aditi and Akash dated, and lost touch with each other. After reconnecting one day, they plan to meet each other in Delhi -- and spend half a day walking down memory lanes.</description>
       <googleplay:description>It’s been more than twenty years since Aditi and Akash dated, and lost touch with each other. After reconnecting one day, they plan to meet each other in Delhi -- and spend half a day walking down memory lanes.</googleplay:description>
       <content:encoded><![CDATA[<p>It’s been more than twenty years since Aditi and Akash dated, and lost touch with each other. After reconnecting one day, they plan to meet each other in Delhi -- and spend half a day walking down memory lanes.</p>]]></content:encoded>
-      <itunes:image href="https://Darmiyaan.com/img/DarmiyaanLogo.png"/>
-      <googleplay:image href="https://Darmiyaan.com/img/DarmiyaanLogo.png"/>
+      <itunes:image href="https://Darmiyaan.com/img/DarmiyaanLogo.jpg"/>
+      <googleplay:image href="https://Darmiyaan.com/img/DarmiyaanLogo.jpg"/>
       <enclosure url="http://static.darmiyaan.com/media/darmiyaan-trailer-01.mp3" length="1206647" type="audio/mpeg"/>
       <itunes:duration>0:01:15</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
