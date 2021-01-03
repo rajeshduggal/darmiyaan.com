@@ -8,7 +8,7 @@
     <sy:updatePeriod>hourly</sy:updatePeriod>
     <sy:updateFrequency>1</sy:updateFrequency>
     <language>hi</language>
-    <copyright>Copyright 2020</copyright>
+    <copyright>Copyright 2021</copyright>
     <itunes:subtitle>After Aditi and Akash reconnected one day, they plan to meet each other in Delhi -- they spend half a day walking down memory lanes.</itunes:subtitle>
     <itunes:author>Aparita Bhandari</itunes:author>
     <itunes:type>episodic</itunes:type>
@@ -34,7 +34,27 @@
     </itunes:category>
     <generator>Hugo -- gohugo.io</generator>
     <item>
-      <title>Trailer</title>
+      <title>Trailer 02</title>
+      <link>https://Darmiyaan.com/</link>
+      <pubDate>Sat, 2 Jan 2021 12:00:17 -0400 </pubDate>
+      <dc:creator/>
+      <guid>http://static.darmiyaan.com/media/darmiyaan-trailer-02.mp3</guid>
+      <itunes:author>Aparita Bhandari</itunes:author>
+      <itunes:episodeType>Trailer</itunes:episodeType>
+      <itunes:title>Trailer</itunes:title>
+      <itunes:summary>It’s been more than twenty years since Aditi and Akash dated, and lost touch with each other. After reconnecting one day, they plan to meet each other in Delhi -- and spend half a day walking down memory lanes.</itunes:summary>
+      <description>It’s been more than twenty years since Aditi and Akash dated, and lost touch with each other. After reconnecting one day, they plan to meet each other in Delhi -- and spend half a day walking down memory lanes.</description>
+      <googleplay:description>It’s been more than twenty years since Aditi and Akash dated, and lost touch with each other. After reconnecting one day, they plan to meet each other in Delhi -- and spend half a day walking down memory lanes.</googleplay:description>
+      <content:encoded><![CDATA[<p>It’s been more than twenty years since Aditi and Akash dated, and lost touch with each other. After reconnecting one day, they plan to meet each other in Delhi -- and spend half a day walking down memory lanes.</p>]]></content:encoded>
+      <itunes:image href="https://Darmiyaan.com/img/DarmiyaanLogo.png"/>
+      <googleplay:image href="https://Darmiyaan.com/img/DarmiyaanLogo.png"/>
+      <enclosure url="http://static.darmiyaan.com/media/darmiyaan-trailer-02.mp3" length="1909654" type="audio/mpeg"/>
+      <itunes:duration>0:01:59</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <googleplay:explicit>no</googleplay:explicit>
+    </item>
+    <item>
+      <title>Trailer 01</title>
       <link>https://Darmiyaan.com/</link>
       <pubDate>Wed, 9 Dec 2020 00:00:17 -0400 </pubDate>
       <dc:creator/>
