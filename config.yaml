@@ -31,7 +31,7 @@ languages:
 
 params:
   copyright:
-    startYear: 2020
+    startYear: 2021
 
   theme:
     background: '#e9e6d2'
