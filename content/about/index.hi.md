@@ -27,7 +27,7 @@ type: about
 
 # विशेष धन्यवाद
 - वेबसाइट डिज़ाइन: चार्ल्स स्मिड, [70 Main Street](http://www.70mainstreet.com/)
-- वेबसाइट डेवलपमेंट: [उत्कर्ष वर्मा](https://utkarsverma.github.io)
+- वेबसाइट डेवलपमेंट: [उत्कर्ष वर्मा](https://utkarshverma.github.io)
 - छायांतर: [संगीता अलवर](https://www.instagram.com/ms.alwar)
 - स्टूडियो स्पेस की व्यवस्था: [विक्रम दासगुप्ता](http://www.vikramdasgupta.com)
 - पॉडकास्ट की निस्बत मेरी व्यथा सुनने के लिए [वसन बाला](https://www.instagram.com/vasanbala) और [छवि सचदेव](https://www.sonologue.com)।
