@@ -22,7 +22,7 @@ It’s been more than twenty years since Aditi and Akash dated, and lost touch w
 - Location Sound: [Manas Tarai](https://twitter.com/manastarai07)
 - Theme Song: Samandar Ki Teh Mein by [Poor Rich Boy](https://www.youtube.com/user/poorrichboyattw)
 - Additional Music: [Soundstripe](C/)
-- Technical Assistance: [Rajesh Duggal](https://www.linkedin.com/in/rajeshkduggal)
+- Technical Assistance: [Rajesh Duggal](http://rajeshduggal.com)
 
 # Special Thanks
 - Website Design: Charles Smid, [70 Main Street](http://www.70mainstreet.com/)

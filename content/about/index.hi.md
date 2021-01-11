@@ -23,7 +23,7 @@ type: about
 - लोकेशन साउंड: [मनस तराई](https://twitter.com/manastarai07) 
 - थीम सॉन्ग: समंदर की तेह में -- [पुअर रिच बॉय](https://www.youtube.com/user/poorrichboyattw)
 - अतिरिक्त संगीत: [साउंडस्ट्राइप](https://twitter.com/manastarai07)
-- तकनीकी सहायता: [राजेश दुग्गल](https://www.linkedin.com/in/rajeshkduggal) 
+- तकनीकी सहायता: [राजेश दुग्गल](http://rajeshduggal.com)
 
 # विशेष धन्यवाद
 - वेबसाइट डिज़ाइन: चार्ल्स स्मिड, [70 Main Street](http://www.70mainstreet.com/)
