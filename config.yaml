@@ -3,7 +3,7 @@ theme: darmiyaan
 
 defaultContentLanguage: en
 defaultContentLanguageInSubdir: true
-GoogleAnalytics: UA-186147166-1
+googleAnalytics: UA-186147166-1
 
 languages:
   en:
